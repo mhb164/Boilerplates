@@ -3,6 +3,11 @@
 # ObjectPool 
 * [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/performance/objectpool)
 
+# Health-Check
+* [Health monitoring](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/monitor-app-health)
+* [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks)
+* [.NET app health checks in C#](https://learn.microsoft.com/en-us/dotnet/core/diagnostics/diagnostic-health-checks)
+* 
 # Dependency Injection + ServiceCollection 
 * [Using Dependency Injection in .NET Console Apps](https://www.c-sharpcorner.com/article/using-dependency-injection-in-net-console-apps/)
 <ul>
